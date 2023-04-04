@@ -15,6 +15,9 @@ dependencies:
   - matplotlib
   - seaborn
   - pillow
+  - pip
+  - pip:
+    - git+https://github.com/COGS118A/quiz_module.git
   
 
 
