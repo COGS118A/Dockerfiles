@@ -1,0 +1,6 @@
+scikit-learn==1.2.*
+statsmodels==0.13.*
+torch==1.12.1
+torchvision==0.13.*
+otter-grader==4.3.*
+Bottleneck==1.3.*
